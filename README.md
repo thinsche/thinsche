@@ -1,7 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This mission of this app is to improve the lives of its users. I am a young entrepreneur who utilizes his web development skills to help others.
 
 Things you may want to cover:
 
