@@ -1,8 +1,8 @@
 # README
 
-This mission of this app is to improve the lives of its users. I am a young entrepreneur who utilizes his web development skills to help others.
+The mission of this app is to improve the lives of its users. I am a young entrepreneur who utilizes his web development skills to help others.
 
-Things you may want to cover:
+Things I may want to cover:
 
 * Ruby version
 
